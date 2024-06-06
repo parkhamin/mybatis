@@ -1,13 +1,13 @@
-package com.project.mybatis;
+package com.project.board;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MybatisApplication {
+public class BoardApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MybatisApplication.class, args);
+		SpringApplication.run(BoardApplication.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package com.project.mybatis;
+package com.project.board;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
